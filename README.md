@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaneshNeo
 - 👀 I’m interested in programming - badminton - food - editing
 - 🌱 I’m currently learning 'C' - language
-- 💞️ I’m looking to study Wb Development
+- 💞️ I’m looking to study Web Development
 - 📫 How to reach me 1325982ganesh@gmail.com
 
 <!---
